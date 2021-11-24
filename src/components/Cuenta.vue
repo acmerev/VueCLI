@@ -46,6 +46,7 @@ export default {
       this.saldo -= 100;
     }
     },
+    
     transferir: function () {
       this.saldo -= 100;
     },
